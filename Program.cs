@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Введите а");
+double a = double.Parse(Console.ReadLine());
+Console.WriteLine("Введите b");
+double b = double.Parse(Console.ReadLine()); 
+Console.WriteLine(plus(a, b)));
+Console.WriteLine(minus(a, b));
+Console.WriteLine(multi(a, b));
+Console.WriteLine(devise(a, b));
