@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Console.WriteLine("Введите а");
 double a = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите b");
@@ -13,4 +14,9 @@ return a - b;
 return a * b;
 }
 
+=======
+﻿double devise(double a, double b) { 
+return a / b;
+}
+>>>>>>> multi
 
