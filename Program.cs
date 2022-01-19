@@ -1,4 +1,4 @@
-﻿double milti(double a, double b) { 
-return a * b;
+﻿double devise(double a, double b) { 
+return a / b;
 }
 
