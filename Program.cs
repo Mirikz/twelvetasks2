@@ -1,4 +1,4 @@
-﻿double minus(double a, double b) { 
-return a - b;
+﻿double milti(double a, double b) { 
+return a * b;
 }
 
